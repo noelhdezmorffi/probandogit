@@ -1,2 +1,2 @@
-Console.WriteLine("hola");
-clase1 
+Console.WriteLine("2");
+cñsald 1 = new cñsald;
